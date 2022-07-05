@@ -1,0 +1,105 @@
+body {
+
+    margin: 0%;
+    padding: 0;
+
+}
+
+.top-section {
+    display: flex;
+    /*!background-image: url(../images/shapes/group-8450.png);  */
+    padding: 5%;
+}
+
+.top-header {
+    width: 100%;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 150px;
+
+}
+
+.half-width {
+    width: 50%;
+}
+
+.body-builder {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.orange-color-text {
+    color: orange;
+}
+
+p {
+
+    font-family: 'Poppins', sans-serif;
+    opacity: 60%;
+    font-weight: 1;
+    font-size: 16px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(blue, purple, orange);
+    padding: 15px 25px;
+    color: aliceblue;
+    border-radius: 50px;
+    display: inline-block;
+    box-shadow: 10px 10px 50x gray;
+    margin-top: 3%;
+}
+
+.middle-section {
+    display: flex;
+    background-image: url(../images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+}
+
+.middle-section img {
+    width: 50%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+#lower-div {
+    padding: 5%;
+    padding-bottom: 0%;
+}
+
+.link-button2 {
+    text-decoration: none;
+    background-image: linear-gradient(blue, purple, orange);
+    padding: 15px 30px;
+    color: aliceblue;
+    border-radius: 50px;
+    display: inline-block;
+    box-shadow: 10px 10px 50x gray;
+    margin-top: 10%;
+
+}
+
+.about-me {
+    font-size: 30px;
+    opacity: 50%;
+}
+
+.my-recipies-div {
+    text-align: center;
+
+}
+
+.my-recipies-div h3 {
+    padding-top: 2%;
+    opacity: 50%;
+}
+
+.my-recipies-div p {
+    font-size: 12px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
